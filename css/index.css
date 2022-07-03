@@ -136,6 +136,7 @@ header>.btn{
 #box02 .box>div p.btn{
   text-align:right;
 }
+/* 42 */
 #box02 .box>div p.btn>button{
   width:196px;
   height:53px;
@@ -145,5 +146,6 @@ header>.btn{
   font-size:20px;
   border-radius:26px;
 }
+/* box03 */
 
 
