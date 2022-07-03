@@ -208,26 +208,23 @@ header>.btn{
   border-left:none;
 }
 #box04 div>ul>li>a{
-  color:#fff;
-}
+  color:#fff;}
 #galley{}
 #galley #all{
   display:flex;
   flex-wrap:wrap;
-  justify-content: space-around;
-}
+  justify-content: space-around;}
 #galley figure{
   /* width:33%; */
   /* width:31%; */
   width:calc(33% - 46px);
   margin-bottom:46px;
-  color:#fff;
-}
+  color:#fff;}
 #galley figure>img{
   margin-bottom:23px;
 }
 #galley .prev{display:none;}
 #galley .next{display:none;}
 
-
+#box05{}
 
